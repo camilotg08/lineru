@@ -1,0 +1,12 @@
+co/com/lineru/credito/models/Values.java
+ co.com.lineru.credito.models.Values
+co/com/lineru/credito/userinterface/LineruPage.java
+ co.com.lineru.credito.userinterface.LineruPage
+co/com/lineru/credito/tasks/Fill.java
+ co.com.lineru.credito.tasks.Fill
+co/com/lineru/credito/tasks/toEnter.java
+ co.com.lineru.credito.tasks.toEnter
+co/com/lineru/credito/tasks/Go.java
+ co.com.lineru.credito.tasks.Go
+co/com/lineru/credito/userinterface/LineruCreditPage.java
+ co.com.lineru.credito.userinterface.LineruCreditPage
